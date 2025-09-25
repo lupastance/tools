@@ -2,6 +2,14 @@
 
 Este repositorio está dedicado a la automaticación de crear un repositorio en tu cuenta de GitHub de manera automática.
 
+# 💥 IMPORTANTE
+
+Debéis tener instalado el `CLI de GitHub`. Lo podéis instalar con el comando
+
+```bash
+winget install Github.cli
+```
+
 Según la estructura de archivos y carpetas que usamos en la asignatura **Desarrollo de Interfaces**
 
     📂 assets

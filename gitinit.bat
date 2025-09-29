@@ -1,4 +1,4 @@
-@REM Desactivamos la salido del echo 
+@REM Desactivamos la salida del echo 
 @echo OFF
 
 @REM Establecemos la codificiación del texto en UTF-8 para los acentos

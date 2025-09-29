@@ -22,7 +22,7 @@ Según la estructura de archivos y carpetas que usamos en la asignatura **Desarr
 
 # Antes de usarlo
 
-Lo mejor que podéis hacer es meter el script en una carpeta y l uego configurar esa carpeta en las variables de entorno de vuestro sistema operativo para poder ejectuar el script desde cualquier parte.
+Lo mejor que podéis hacer es meter el script en una carpeta y luego configurar esa carpeta en las variables de entorno de vuestro sistema operativo para poder ejectuar el script desde cualquier parte.
 
 Tened en cuenta que tendrás que modificar el archivo `gitinit.bat` en varias líneas del código:
 
